@@ -2,7 +2,7 @@ import os
 from tqdm import tqdm
 import torch
 
-def train_lepoch(model, train_loader, lossfun, optimizer, device):
+def train_1epoch(model, train_loader, lossfun, optimizer, device):
     model.train()
     total_loss, total_acc = 0.0, 0.0
 
