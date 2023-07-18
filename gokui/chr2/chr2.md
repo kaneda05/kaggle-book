@@ -31,3 +31,6 @@
 - time series split
 データセット
 [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
+
+- adversarial validation
+データセット
