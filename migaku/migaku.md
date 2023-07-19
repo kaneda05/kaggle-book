@@ -2,7 +2,7 @@
 
 |章|内容|コード一覧|記録|
 |:--:|:--:|:--:|:--:|
-|4章|ベースライン作成|[コード](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr4/chr4.md)|[要約など]()|
+|4章|ベースライン作成|[コード](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr4/main.ipynb)|[要約など](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr4/chr4.md)|
 |5章|特徴量エンジニアリング|[コード]()|[]()|
 |6章|モデルチューニング|[コード]()|[]()|
 |7章|2値分類のコンペ|[コード]()|[]()|
