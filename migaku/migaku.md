@@ -2,11 +2,11 @@
 
 |章|内容|コード一覧|記録|
 |:--:|:--:|:--:|:--:|
-|4章|ベースライン作成|[コード](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr4/main.ipynb)|[要約など](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr4/chr4.md)|
-|5章|特徴量エンジニアリング|[コード]()|[]()|
-|6章|モデルチューニング|[コード]()|[]()|
-|7章|2値分類のコンペ|[コード]()|[]()|
-|8章|回帰問題のコンペ|[コード]()|[]()|
+|4章|ベースライン作成|[コード](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr4/main.ipynb)|[メモ](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr4/chr4.md)|
+|5章|特徴量エンジニアリング|[コード](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr5/main.ipynb)|[メモ](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr5/chr5.md)|
+|6章|モデルチューニング|[コード](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr6/main.ipynb)|[メモ](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr6/chr6.md)|
+|7章|2値分類のコンペ|[コード](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr7/main.ipynb)|[メモ](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr7/chr7.md)|
+|8章|回帰問題のコンペ|[コード](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr8/main.ipynb)|[メモ](https://github.com/kaneda05/kaggle-book/blob/main/migaku/chr8/chr8.md)|
 
 |#|分析プロセス|タスク|①ベースライン作成|②特徴量エンジニアリング|③モデルチューニング|
 |:--:|:--:|:--:|:--:|:--:|:--:|
